@@ -1,17 +1,17 @@
-#You Save the Internet, Passively
+# You Save the Internet, Passively
 
 
 **High Concept**: The concept is Dance Dance Revolution meets an idle simulator
 
 **Genre**:This is meant to be a casual game
 
-Platform: Desktop and Mobile
+**Platform**: Desktop and Mobile
 
-Story: The story is that the world has fallen into disarray because the President accidentally hit the button that shuts down the internet and now you must save it one byte at a time.
+**Story**: The story is that the world has fallen into disarray because the President accidentally hit the button that shuts down the internet and now you must save it one byte at a time.
 
-Aesthetics: The game will have a very cartoonish and simplistic looking feel to it, nothing demanding in the graphical department
+**Aesthetics**: The game will have a very cartoonish and simplistic looking feel to it, nothing demanding in the graphical department
 
-##Gameplay
+## Gameplay
 
 The Gameplay of my project will be very simple and casual, it will revolve around tapping the arrow keys on the keyboard in a certain order to save all of the bytes on the internet. 
 In addition to this players can spend their bytes in the shop in order to get bytes more easily such as getting bytes when they are not even touching the keys. The goal of the game is to reach the deepest level of the internet(thereby saving it)
