@@ -1,4 +1,4 @@
-# You Save the Internet, Passively
+# You Save the Internet
 
 
 **High Concept**: The concept is Dance Dance Revolution meets an idle simulator
